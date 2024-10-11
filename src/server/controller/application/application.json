@@ -1,0 +1,20 @@
+{
+  "list": [
+    {
+      "name": "H5_TEST",
+      "description": "h5 for upload test",
+      "repoUrl": "http://globaltech-code.alipay.com/Banco/adw-h5-demo.git",
+      "account": "lian.junqiang@iwhalecloud.com",
+      "psw": "LuvZ7wTgYmdMzpUGXoae",
+      "id": 1727142560607
+    },
+    {
+      "name": "apunifybo_test",
+      "description": "apunifybo for upload test",
+      "repoUrl": "http://globaltech-git.alipay.com/Banco/apunifybo.git",
+      "account": "lian.junqiang@iwhalecloud.com",
+      "psw": "LuvZ7wTgYmdMzpUGXoae",
+      "id": 1727160967758
+    }
+  ]
+}

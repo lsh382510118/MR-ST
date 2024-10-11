@@ -1,0 +1,13 @@
+{
+  "list": [
+    {
+      "name": "CHILE_DEV1",
+      "description": "dev environment",
+      "region": "region",
+      "bucketName": "h5.saas.dev1.cirrus.bestado.cl",
+      "ak": "123123123",
+      "sk": "123123123",
+      "id": "47c6416f-06d2-467b-9554-95545e68f862"
+    }
+  ]
+}

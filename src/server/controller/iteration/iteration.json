@@ -1,0 +1,20 @@
+{
+  "list": [
+    {
+      "appId": 1727160449713,
+      "iterationName": "release/202409A",
+      "branchName": "9A-chore-nodegittest",
+      "description": "123123",
+      "id": 1727082581246,
+      "appName": "H5_TEST"
+    },
+    {
+      "appId": 1727160967758,
+      "iterationName": "release/202409A",
+      "branchName": "9a-chore-uploadS3Test",
+      "description": "h5 for upload test",
+      "id": 1727161345024,
+      "appName": "apunifybo_test"
+    }
+  ]
+}
